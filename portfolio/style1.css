@@ -1,0 +1,72 @@
+.navbar-brand {
+    border: 1px solid white;
+    padding: .5rem;
+}
+
+.left {
+
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+
+    position: relative;
+    top: 10rem;
+    font-size: larger;
+    color: white;
+}
+
+.project {
+    margin: 5rem;
+    /* background-color:#113D80;  */
+    background-color:#1D5C94;
+    color:white;
+}
+.card{
+        color:black;
+        margin-left: .5rem;
+}
+
+.main {
+    /* background-color: rgb(69, 152, 252); */
+    background-image: url(mesh-1430107_1280.png);
+    margin:5rem;
+
+}
+
+.navbar {
+    height: 10vh;
+    font-size: x-large;
+    /* z-index: ; */
+    z-index: 1000;
+    position: fixed;
+    width: 100vw;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.about {
+    margin: 5rem;
+    font-size: x-large;
+    background-color:#1D5C94;
+    color:white;
+    
+}
+
+.contact {
+    margin: 5rem;
+    background-color:#1D5C94;
+    font-size: x-large;
+    color:white;
+}
+.h1{
+     color: white;
+     background-color: black;
+}
+.entire{
+          background-color:#f0f8ff;
+}
